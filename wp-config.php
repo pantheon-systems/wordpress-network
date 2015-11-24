@@ -129,6 +129,9 @@ define('WPLANG', '');
  */
 define('WP_DEBUG', false);
 
+/* Multisite */
+define( 'WP_ALLOW_MULTISITE', true );
+
 /* That's all, stop editing! Happy Pressing. */
 
 
