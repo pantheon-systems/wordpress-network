@@ -1,0 +1,10 @@
+---
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: wordpress-network
+  description: WordPress Multisite upstream for Pantheon
+spec:
+  type: template
+  lifecycle: production
+  owner: sitex
